@@ -1,4 +1,3 @@
-Header header
 PathPoint path_point
 float64 vel
 float64 acc
