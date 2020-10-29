@@ -113,7 +113,14 @@ generate_messages(
 catkin_package(
         #  INCLUDE_DIRS include
         #  LIBRARIES planning_srv
-        CATKIN_DEPENDS carla_msgs geometry_msgs nav_msgs roscpp rospy  planning_msgs message_runtime
+        CATKIN_DEPENDS
+        carla_msgs
+        geometry_msgs
+        nav_msgs
+        roscpp
+        rospy
+        planning_msgs
+        message_runtime
         #  DEPENDS system_lib
 )
 
