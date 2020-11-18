@@ -1,0 +1,7 @@
+# lateral behaviour
+LateralBehaviour lat_behaviour
+LongitudinalBehaviour lon_behaviour
+LateralBehaviour[] forward_behaviours
+Trajectory[] forward_trajectories
+ObstacleTrajectory[] surroud_trajectories
+float64 desired_velocity

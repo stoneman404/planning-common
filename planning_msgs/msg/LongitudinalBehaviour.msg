@@ -1,0 +1,6 @@
+uint8 behaviour
+
+uint8 MAINTAIN=1
+uint8 ACCELERATE=2
+uint8 DECELERATE=3
+uint8 STOPPING=4

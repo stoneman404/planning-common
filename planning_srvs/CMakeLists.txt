@@ -60,7 +60,7 @@ find_package(catkin REQUIRED COMPONENTS
 ## Generate services in the 'srv' folder
 add_service_files(
         FILES
-        Route.srv
+        RoutePlanService.srv
         #   Service1.srv
         #   Service2.srv
 )

@@ -53,11 +53,14 @@ find_package(catkin REQUIRED COMPONENTS
 ## Generate messages in the 'msg' folder
 add_message_files(
         FILES
+        ObstacleTrajectory.msg
+        LateralBehaviour.msg
+        LongitudinalBehaviour.msg
+        Behaviour.msg
         PathPoint.msg
         Path.msg
         TrajectoryPoint.msg
         Trajectory.msg
-        BehaviouralState.msg
         WayPoint.msg
         LaneChangeType.msg
         LaneType.msg
@@ -66,7 +69,8 @@ add_message_files(
         LaneMarkingType.msg
         BoundingBox.msg
         Junction.msg
-        WayPointArray.msg
+        Route.msg
+        RouteList.msg
         CarlaRoadOption.msg
 )
 
