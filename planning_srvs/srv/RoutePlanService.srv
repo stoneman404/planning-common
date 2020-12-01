@@ -1,4 +1,5 @@
 geometry_msgs/Pose start_pose
 geometry_msgs/Pose end_pose
+int64 offset
 ---
 planning_msgs/WayPoint[] route
