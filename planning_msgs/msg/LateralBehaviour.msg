@@ -1,5 +1,5 @@
 uint8 behaviour
-
+uint8 UNDEFINED = 0
 uint8 LANEKEEPING=1
 uint8 LANECHANGERIGHT=2
 uint8 LANECHANGELEFT=3
