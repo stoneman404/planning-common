@@ -4,4 +4,4 @@ LongitudinalBehaviour lon_behaviour
 LateralBehaviour[] forward_behaviours
 Trajectory[] forward_trajectories
 Lane[] reference_lane
-AgentTrajectory[] surroud_trajectories
+AgentTrajectoryArray[] surroud_trajectories
