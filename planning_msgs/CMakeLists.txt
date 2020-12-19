@@ -71,7 +71,7 @@ add_message_files(
         BoundingBox.msg
         Junction.msg
         Lane.msg
-        LaneList.msg
+        LaneArray.msg
         CarlaRoadOption.msg
 )
 
