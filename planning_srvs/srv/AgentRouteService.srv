@@ -1,4 +1,4 @@
 int32 actor_id
 
 ---
-planning_msgs/LaneArray lane_array
+planning_msgs/Lane[] lanes

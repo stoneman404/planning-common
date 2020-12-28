@@ -1,2 +1,2 @@
 int32 id
-Trajectory trajectory
+planning_msgs/Trajectory trajectory

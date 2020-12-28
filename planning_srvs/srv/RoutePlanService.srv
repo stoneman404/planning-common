@@ -1,7 +1,6 @@
 geometry_msgs/Pose start_pose
 geometry_msgs/Pose end_pose
-int32 offset
 ---
 planning_msgs/Lane route
-planning_msgs/LaneArray left_lane_array
-planning_msgs/LaneArray right_lane_array
+planning_msgs/Lane left_lane
+planning_msgs/Lane right_lane
