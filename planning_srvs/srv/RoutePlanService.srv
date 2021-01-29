@@ -1,5 +1,6 @@
 geometry_msgs/Pose start_pose
 geometry_msgs/Pose end_pose
+
 ---
 planning_msgs/Lane route
 planning_msgs/Lane left_lane
